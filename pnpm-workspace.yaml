@@ -4,3 +4,5 @@ allowBuilds:
   msw: false
   prisma: true
   sharp: true
+minimumReleaseAgeExclude:
+  - dotenv@18.0.3
